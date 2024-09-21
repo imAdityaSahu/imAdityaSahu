@@ -35,4 +35,4 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 
 ---
 
-⭐️ ⭐️ ⭐️ 
+# Thanks!
