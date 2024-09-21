@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Sahu! 👋
 
-## 🚀 About Me
+🚀 About Me
 
 I'm a passionate Front-end Developer and Web Designer with a knack for creating stunning and functional websites. I love turning ideas into reality using code.
 
