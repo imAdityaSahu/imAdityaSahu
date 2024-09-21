@@ -4,7 +4,7 @@
 
 I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with over 4+ years of experience in designing Pixel-Perfect Responsive Designs and HTML pages.
 
-➤ I Specialize in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. <br>
+➤ Specialized in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. <br>
 ➤ Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines. <br>
 ➤ Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS. <br>
 ➤ I’m currently learning **MERN Stack** and **Drupal CMS** <br>
