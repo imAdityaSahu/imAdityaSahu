@@ -33,4 +33,3 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/adityasahu)
 
----
