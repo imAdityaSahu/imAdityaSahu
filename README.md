@@ -19,6 +19,7 @@ I am a Front-End Developer and Web (UI) Designer with over 4+ years of experienc
 
 ## 🏆 My Certifications
 
+<img src="https://ibb.co/sVpYJNd" alt="Upwork Front-End Development Certification" width="200">
 
 
 ## 📫 How to reach me
