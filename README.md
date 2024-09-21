@@ -17,9 +17,6 @@ I am a Front-End Developer and Web (UI) Designer with over 4+ years of experienc
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=%23231A8FF)
 
-## 🏆 My Certifications
-
-![Upwork Front-End Development Certification](https://i.ibb.co/QK7wjT3/front-end-development.webp)
 
 
 ## 📫 How to reach me
