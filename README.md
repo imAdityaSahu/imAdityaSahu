@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi there, I'm Aditya Sahu! 👋
+## Hi there, I'm Aditya Sahu! 👋
 
 <h3>🚀 About Me</h3>
 
