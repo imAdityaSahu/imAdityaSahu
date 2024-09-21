@@ -19,7 +19,7 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%ffffff.svg?style=for-the-badge&logo=figma&logoColor=%2331A8FF)
+![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=%23231A8FF)
 
 
 ## 📫 How to reach me
