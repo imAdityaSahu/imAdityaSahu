@@ -1,13 +1,16 @@
+<div align="center">
+
+
 # Hi there, I'm Aditya Sahu! 👋
 
 ## 🚀 About Me
 
 I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with over 4+ years of experience in designing Pixel-Perfect Responsive Designs and HTML pages.
 
-➤ Specialized in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. <br>
-➤ Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines. <br>
-➤ Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS. <br>
-➤ I’m currently learning **MERN Stack** and **Drupal CMS** <br>
+Specialized in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. <br> <br>
+Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines. <br> <br>
+Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS. <br> <br>
+I’m currently learning **MERN Stack** and **Drupal CMS** <br> <br>
 
 ## ✨ My Tech Stack
 
@@ -21,6 +24,11 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=%23231A8FF)
 
+## 🏆 My Certifications
+
+<img src="https://www.upwork.com/mc/documents/front-end-development.png" alt="Upwork Front-End Development Certification" width="200">
+<img src="https://www.upwork.com/mc/documents/css-front-end-development.png" alt="Upwork Front-End Development Certification" width="200">
+
 
 ## 📫 How to reach me
 
@@ -33,3 +41,4 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/adityasahu)
 
+</div>
