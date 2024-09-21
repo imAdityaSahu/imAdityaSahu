@@ -4,10 +4,10 @@
 
 I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with over 4+ years of experience in designing Pixel-Perfect Responsive Designs and HTML pages.
 
-* I Specialize in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML.
-* Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines.
-* Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS.
-* I’m currently learning **MERN Stack** and **Drupal CMS**
+➤ I Specialize in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML.
+➤ Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines.
+➤ Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS.
+➤ I’m currently learning **MERN Stack** and **Drupal CMS**
 
 ## ✨ My Tech Stack
 
@@ -24,9 +24,9 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 
 ## 📫 How to reach me
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadityasahu)
-* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meAdityaSahu)
-* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.webartist@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadityasahu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meAdityaSahu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.webartist@gmail.com)
 
 
 ## 🎨 Design Showcase
