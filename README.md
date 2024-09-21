@@ -5,9 +5,7 @@
 
 ## 🚀 About Me
 
-I am a Front-End Developer and Web (UI) Designer with over 4+ years of experience in designing Pixel-Perfect Responsive Designs and HTML pages. I am Specialized in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. Have a Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines. I am Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS. I’m currently learning **MERN Stack** and **Drupal CMS** 
-
-## ✨ My Tech Stack
+I am a Front-End Developer and Web (UI) Designer with over 4+ years of experience in designing Pixel-Perfect Responsive Designs and HTML pages. I am Specialized in creating user-centered UI designs using Photoshop/Figma and converting them to precise, high-quality HTML. Have a Proven track record of enhancing user engagement and collaborating seamlessly with teams under tight deadlines. I am Highly skilled in using modern front-end technologies such as Bootstrap and SASS/SCSS. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
