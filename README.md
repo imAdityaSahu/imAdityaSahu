@@ -24,15 +24,15 @@ I am a Certified Front-End Developer (HTML/(S)CSS/JS) and Web (UI) Designer with
 
 ## 📫 How to reach me
 
-* LinkedIn: [Aditya Sahu](https://www.linkedin.com/in/imadityasahu/)
-* Twitter: [@meAdityaSahu](https://x.com/meAdityaSahu)
-* Email: [aditya.webartist@gmail.com](mailto:aditya.webartist@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sahu)=
+* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meAdityaSahu)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.webartist@gmail.com)
 
 
 ## 🎨 Design Showcase
 
-Take a look at some of my design work on [Dribbble](https://dribbble.com/adityasahu)
+Take a look at some of my design work on [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/adityasahu)
 
 ---
 
-⭐️ From [Aditya Sahu](https://github.com/imAdityaSahu)
+⭐️ ⭐️ ⭐️ 
