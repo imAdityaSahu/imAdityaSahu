@@ -1,118 +1,129 @@
 <div align="center">
 
-# Hey, I'm Aditya Sahu 👋
+### `frontend engineer` → `cloud & sre architect in progress`
 
-**Frontend Engineer → Cloud & SRE Engineer in progress**
-
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Azure](https://img.shields.io/badge/Azure-Certified%20Path-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications)
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
+[![Job Success](https://img.shields.io/badge/Job%20Success-100%25-brightgreen?style=flat-square)](https://upwork.com)
+[![Azure](https://img.shields.io/badge/Azure-Certification%20Path-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
+[![Go](https://img.shields.io/badge/Learning-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![MCA](https://img.shields.io/badge/Pursuing-MCA-a371f7?style=flat-square)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-I'm a frontend developer with **5 years of experience** building pixel-perfect UIs from Figma to production — and I'm actively transitioning into **Cloud & SRE engineering** on the Azure stack.
+```yaml
+name:       Aditya Sahu
+location:   Lucknow, India
+experience: 5 years frontend development
+status:     Top Rated @ Upwork · 100% JSS
+currently:  Azure cloud internship + MCA degree
+learning:   Golang · Azure infrastructure · Cloud security
+goal:       Cloud Security Architect / SRE
+```
 
-Currently pursuing my MCA while working as a **Top Rated freelancer on Upwork** (100% Job Success Score) and completing a cloud computing internship with an Azure-first focus.
+I turn **Figma designs into pixel-perfect, accessible code** — and I'm actively building the cloud and infrastructure skills to become a serious backend and platform engineer.
 
-- 🎯 **Short-term:** AZ-900 → AZ-104 → AZ-305 → AZ-500
-- 🚀 **Long-term:** Cloud Security Architect / SRE
-- 🔨 **Currently learning:** Golang + Azure infrastructure
-- 📍 Based in **Lucknow, India**
+Not just pivoting. Actually doing it: hands-on Azure internship, going through AZ-900 → AZ-104 → AZ-305 → AZ-500, and learning Go alongside.
 
 ---
 
-## Tech Stack
+## `$ cat tech-stack.json`
 
-### Frontend
+### 🖥️ Frontend — What I do professionally
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3_BEM-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-### Cloud & DevOps *(in progress)*
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+> Specialty: **Figma → production-grade HTML/CSS** · BEM · CSS custom properties · WCAG 2.1 AA
+
+### ☁️ Cloud & DevOps — Where I'm heading
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### 🔤 Languages
+![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## What I Do Well
+## `$ cat cert-roadmap.txt`
 
-**Figma → Production Code**
-I specialize in converting complex Figma designs into clean, semantic, accessible HTML/CSS. No shortcuts. BEM methodology, CSS custom properties, WCAG 2.1 AA compliance.
+```
+AZ-900  ──▶  AZ-104  ──▶  AZ-305  ──▶  AZ-500
+  │              │              │             │
+  ▼              ▼              ▼             ▼
+Azure         Azure          Azure        Azure
+Fundamentals  Admin          Architect    Security
+[IN PROGRESS] [NEXT]         [PLANNED]    [PLANNED]
+```
 
-**React & Next.js Development**
-Component architecture, API integrations, performance optimization. I've shipped full-stack Next.js projects with dynamic data pipelines.
-
-**Cloud Infrastructure (Azure)**
-Actively building hands-on knowledge in Azure networking, IAM, infrastructure-as-code, and cloud security. This is where I'm heading full-time.
-
----
-
-## Certifications Roadmap
-
-| Cert | Status |
-|------|--------|
-| AZ-900: Azure Fundamentals | 🎯 In Progress |
-| AZ-104: Azure Administrator | 🔜 Next |
-| AZ-305: Azure Solutions Architect | 🔜 Planned |
-| AZ-500: Azure Security Engineer | 🔜 Planned |
+> Long-term path: `AZ-500` → `SC-200` → `Terraform + AKS` → **Cloud Security Architect**
 
 ---
 
-## Featured Projects
+## `$ git log --oneline --featured`
 
-> *(Pin your best repos here — replace placeholders below)*
+> *(Pin your best repos — replace with your actual projects)*
 
-### 🔗 [Chabad Mizzou Campaign Site](https://github.com/YOUR_USERNAME/project)
-Donation & dedication campaign site with Google Sheets API integration. Built with vanilla JS, BEM CSS, and full accessibility compliance.
-`HTML` `CSS` `JavaScript` `Google Sheets API`
+### 🔗 [Chabad Mizzou Campaign Site](https://github.com/YOUR_USERNAME/chabad-mizzou)
+Donation & Torah dedication campaign with live Google Sheets API integration. Vanilla JS, BEM CSS, full WCAG 2.1 AA compliance, responsive layouts.
+`HTML` `CSS` `JavaScript` `Google Sheets API` `Accessibility`
 
 ### 🔗 [Project Name](https://github.com/YOUR_USERNAME/project)
-Short one-liner about what it does and why it matters.
-`Next.js` `React` `TypeScript`
+One sharp sentence about what it solves and why it matters.
+`Next.js` `React` `TypeScript` `API`
 
-### 🔗 [Go Learning Projects](https://github.com/YOUR_USERNAME/project)
-Collection of Golang exercises and mini-projects as I ramp up on the language.
-`Go`
+### 🔗 [Golang Exercises](https://github.com/YOUR_USERNAME/go-practice)
+Working through Go fundamentals — data structures, concurrency, CLI tools.
+`Go` `Boot.dev`
 
 ---
 
-## GitHub Stats
+## `$ top` — GitHub Stats
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Currently
+## `$ curl /now`
 
-- 📖 Reading: Go documentation + Azure Learn paths
-- 🏗️ Building: Cloud-native projects to back the certs with real work
-- 💼 Open to: Cloud/SRE roles, full-stack contracts, and interesting open source
+```json
+{
+  "studying":   "AZ-900 Azure Fundamentals",
+  "learning":   "Golang via Boot.dev",
+  "working_on": "React / Next.js client contracts",
+  "building":   "Cloud-native side projects",
+  "open_to":    ["SRE roles", "Cloud Engineer roles", "Full-stack contracts"]
+}
+```
 
 ---
 
 <div align="center">
 
-**Let's connect →** [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Upwork](https://upwork.com/YOUR_PROFILE) · [Email](mailto:YOUR_EMAIL)
+**`connect -->`**
+&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)&nbsp;&nbsp;·&nbsp;&nbsp;[Upwork](https://upwork.com/YOUR_PROFILE)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:YOUR_EMAIL)
+
+<sub>Building from frontend to cloud — one cert, one Go routine, one deployment at a time.</sub>
 
 </div>
