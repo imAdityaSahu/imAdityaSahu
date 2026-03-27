@@ -1,159 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aditya%20Sahu&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Azure%20Cloud%20Engineer%20%7C%20DevOps%20%7C%20DevSecOps&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aditya%20Sahu&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Azure%20Cloud%20%7C%20DevSecOps%20%7C%20Cloud%20Security&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=2C9EF7&center=true&vCenter=true&width=750&lines=Designing+Cloud+Systems+That+Scale;Azure+%7C+DevOps+%7C+Cloud+Security;From+Frontend+to+Infrastructure;Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=2C9EF7&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+HTML+CSS+React+Next.js+Python+Django+PostgreSQL;Azure+Cloud+Engineer+DevOps+DevSecOps+Cloud+Security;Secure+Scalable+Systems+CI+CD+Docker+Microservices;Learning+Azure+Architecture+AZ-900+AZ-104+AZ-305" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20B2AA?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/imAdityaSahu)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:developer.adityasahu@gmail.com)
 
 </div>
 
 ---
 
-# ☁️ Who Am I (Cloud Perspective)
+# Who I Am
 
 ```python
-class CloudEngineer:
-    name = "Aditya Sahu"
-    role = "Azure Cloud Engineer | DevOps | DevSecOps"
+class AdityaSahu:
+    role = "Full Stack Engineer and Azure Cloud Engineer"
+    specialization = "Cloud Security DevSecOps Azure"
 
-    philosophy = [
-        "Think in systems, not just code",
-        "Design for scale, security & reliability",
-        "Automate everything that repeats"
-    ]
+    frontend = ["HTML", "CSS", "JavaScript", "React", "Next.js"]
+    backend = ["Python", "Django"]
+    database = ["PostgreSQL"]
 
-    core_stack = {
-        "cloud": "Microsoft Azure",
-        "devops": ["CI/CD", "Docker", "Automation"],
-        "security": ["IAM", "Secrets", "Secure Architecture"],
-        "fullstack": ["React", "Next.js", "Django", "SQL"]
-    }
+    cloud = ["Microsoft Azure", "Azure Architecture", "Azure Networking", "Azure Storage"]
+    devops = ["CI/CD", "Docker", "GitHub Actions"]
+    security = ["IAM", "RBAC", "Secrets Management", "Secure Architecture"]
 
-    vision = "Evolve into a Cloud Architect building large-scale distributed systems"
+    focus = "Building secure scalable cloud systems on Azure"
+
+    vision = "Cloud Security Architect and DevSecOps Engineer"
 ```
 
 ---
 
-# 🧠 My Engineering Mindset
+# Engineering Focus
 
-* I design **systems**, not just features
-* I build **deployable applications**, not local projects
-* I focus on **automation, scalability, and security**
+* Full Stack Development with HTML CSS JavaScript React Next.js Python Django PostgreSQL
+* Azure Cloud Engineering with focus on compute storage networking and identity
+* DevOps practices including CI CD pipelines containerization and automation
+* DevSecOps mindset with emphasis on secure deployments identity access management and secrets handling
+* System design for scalability reliability and security
 
 ---
 
-# 🏗️ Featured Project Architecture
+# Architecture Thinking
 
-## 🔹 StackLens (Cloud-Ready System)
+## StackLens Platform
 
-> Tech Stack Discovery Platform designed with scalability in mind
+Tech Stack Discovery Platform designed for scalable cloud deployment
 
-### ⚙️ Architecture Flow
+### Architecture Flow
 
 ```
-User → Frontend (Next.js)
-     → Backend API (Node/Django)
-     → Database (SQL)
-     → Cloud (Azure)
+User -> Frontend Next.js
+     -> Backend API Django
+     -> Database PostgreSQL
+     -> Cloud Azure
 ```
 
-### ☁️ Azure Cloud Design
+### Azure Architecture Design
 
-* Frontend → Azure Static Web Apps / CDN
-* Backend → Azure App Services
-* Database → Azure SQL
-* Auth → Azure AD / JWT
-* Storage → Azure Blob Storage
-* CI/CD → GitHub Actions / Azure DevOps
-
----
-
-# 🛠️ Tech Stack
-
-## ☁️ Azure & Cloud
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge\&logo=azuredevops)
-![IAM](https://img.shields.io/badge/IAM-Security-2C5364?style=for-the-badge)
-
-## ⚙️ DevOps & Automation
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-FF6F00?style=for-the-badge\&logo=githubactions)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git)
-
-## 🔐 DevSecOps (Learning)
-
-* Secure CI/CD pipelines
-* Role-based access (RBAC / IAM)
-* Secrets management
-* Environment isolation
-
-## 👨‍💻 Full-Stack Edge
-
-![React](https://img.shields.io/badge/React-UI-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-000000?style=for-the-badge\&logo=next.js)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge\&logo=django)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge\&logo=mysql)
+* Frontend hosted on Azure Static Web Apps or CDN
+* Backend deployed on Azure App Service
+* Database using Azure Database for PostgreSQL or Azure SQL
+* Authentication using Azure Active Directory or JWT
+* Storage using Azure Blob Storage
+* CI CD using GitHub Actions or Azure DevOps
 
 ---
 
-# 📊 GitHub Stats
+# Core Skills and Technologies
 
-<div align="center">
+## Full Stack Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+HTML CSS JavaScript React Next.js Python Django PostgreSQL
 
-</div>
+## Azure Cloud
 
----
+Microsoft Azure Azure App Service Azure Virtual Machines Azure Storage Azure Networking Azure Active Directory
 
-# 🎯 Current Focus
+## DevOps
 
-* Azure Architecture (AZ-900 → AZ-104 → AZ-305)
-* CI/CD Pipelines & Automation
-* DevSecOps & Cloud Security
-* System Design for Scalable Applications
+CI CD GitHub Actions Docker Git Version Control
 
----
+## Cloud Security and DevSecOps
 
-# 🚀 What Makes Me Different
-
-* Full-stack + Cloud = End-to-end understanding
-* Production-first mindset (not tutorials)
-* Security-aware engineering
-* Clear goal: Cloud Architect
+Identity and Access Management RBAC Secrets Management Secure CI CD Pipelines Environment Isolation Application Security
 
 ---
 
-# 🤝 Let’s Connect
+# Current Focus
 
-<div align="center">
-
-I’m open to:
-
-* Cloud / DevOps Internships
-* Azure-based collaborations
-* Building scalable systems
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sahu-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-
-</div>
+* Azure Certification Path AZ-900 AZ-104 AZ-305
+* Building real world cloud deployed applications on Azure
+* Implementing CI CD pipelines with security considerations
+* Learning Cloud Security principles and DevSecOps practices
+* Designing highly secure and scalable systems
 
 ---
 
-<div align="center">
+# Value Proposition
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+* Full stack engineer with strong understanding of frontend backend and database systems
+* Transitioning into Azure Cloud Engineer with focus on real deployments
+* Security focused engineering mindset aligned with DevSecOps principles
+* Long term goal to become Cloud Security Architect
 
-"Good developers write code. Great engineers design systems."
+---
 
-</div>
+# Contact
+
+LinkedIn [https://www.linkedin.com/in/imAdityaSahu](https://www.linkedin.com/in/imAdityaSahu)
+Email [developer.adityasahu@gmail.com](mailto:developer.adityasahu@gmail.com)
+
+---
+
+"Build systems that are secure scalable and production ready"
