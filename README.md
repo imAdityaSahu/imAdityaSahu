@@ -81,13 +81,16 @@ User -> Frontend Next.js
 ## Let's Connect
 
 <div align="center">
+    
 I'm always open to collaborating on full-stack projects and discussing career opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sahu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imadityasahu/)
 [![Gmail](https://img.shields.io/badge/Gmail-developer.adityasahu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.adityasahu@gmail.com)
+
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+
 "Good developers write code. Great engineers design systems."
 </div>
