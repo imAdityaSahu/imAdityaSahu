@@ -84,7 +84,7 @@ User -> Frontend Next.js
 
 I'm always open to collaborating on full-stack projects and discussing career opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%Sahu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imadityasahu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sahu-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imadityasahu/)
 [![Gmail](https://img.shields.io/badge/Gmail-developer.adityasahu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.adityasahu@gmail.com)
 
 </div>
